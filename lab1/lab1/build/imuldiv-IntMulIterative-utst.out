@@ -1,0 +1,6 @@
+VCD info: dumpfile imuldiv-IntMulIterative.vcd opened for output.
+
+ Entering Test Suite: imuldiv-IntMulIterative
+  + Running Test Case: mul
+     [ passed ] Test ( Is sink finished? ) succeeded 
+
