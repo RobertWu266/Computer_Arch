@@ -1,0 +1,22 @@
+VCD info: dumpfile dump.vcd opened for output.
+
+ Entering Test Suite: imuldiv-IntDivIterative
+  + Running Test Case: div/rem
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 0000000000000000 == 0000000000000000 ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 0000000000000000 == 0000000000000000 ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 000000000000000d == 000000000000000d ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 0000003200000000 == 0000003200000000 ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 0000002e0000000a == 0000002e0000000a ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ ffffda72ffffd353 == ffffda72ffffd353 ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ ffffcc8e0000208b == ffffcc8e0000208b ]
+     [ FAILED ] Test ( Is sink finished? ) failed
+  + Running Test Case: divu/remu
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 0000000000000001 == 0000000000000001 ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 0000000000000001 == 0000000000000001 ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 000000000000208a == 000000000000208a ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 0000003200000000 == 0000003200000000 ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 0000002e0000000a == 0000002e0000000a ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ 0000227f00012a90 == 0000227f00012a90 ]
+     [ passed ] Test ( vc-TestSink ) succeeded, [ f5fe4fbc00000000 == f5fe4fbc00000000 ]
+     [ FAILED ] Test ( Is sink finished? ) failed
+
